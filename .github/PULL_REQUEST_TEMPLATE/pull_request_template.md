@@ -1,4 +1,4 @@
-#### [root cause]
+# root cause
 
 
-### [solution]
+# solution
